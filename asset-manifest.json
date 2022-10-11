@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kogatravel/static/css/main.0e229824.css",
+    "main.js": "/kogatravel/static/js/main.cb0a5d24.js",
+    "static/media/kogacity.mp4": "/kogatravel/static/media/kogacity.a1f525f300f3f91e7ead.mp4",
+    "static/media/koga2.mp4": "/kogatravel/static/media/koga2.e247f6880375c92d2b19.mp4",
+    "static/media/img1.jpeg": "/kogatravel/static/media/img1.f7dd56868576be5fdf4a.jpeg",
+    "static/media/img2.jpg": "/kogatravel/static/media/img2.5d5c5807595f3b9a9e8e.jpg",
+    "static/media/img3.jpeg": "/kogatravel/static/media/img3.b113490be0af1f0fef41.jpeg",
+    "static/media/img4.jpg": "/kogatravel/static/media/img4.86efc73b5842fc83f6df.jpg",
+    "index.html": "/kogatravel/index.html",
+    "main.0e229824.css.map": "/kogatravel/static/css/main.0e229824.css.map",
+    "main.cb0a5d24.js.map": "/kogatravel/static/js/main.cb0a5d24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e229824.css",
+    "static/js/main.cb0a5d24.js"
+  ]
+}
